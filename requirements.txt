@@ -1,1 +1,5 @@
 ipdb
+black
+flake8
+pep8
+flake8-isort
